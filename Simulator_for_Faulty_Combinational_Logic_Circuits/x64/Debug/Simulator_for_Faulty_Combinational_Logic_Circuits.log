@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\tnego\Desktop\Simulator_for_Faulty_Combinational_Logic_Circuits\Simulator_for_Faulty_Combinational_Logic_Circuits\main.c(117,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tnego\Desktop\Simulator_for_Faulty_Combinational_Logic_Circuits\Simulator_for_Faulty_Combinational_Logic_Circuits\main.c(161,27): warning C4013: 'evaluateGate' undefined; assuming extern returning int
+C:\Users\tnego\Desktop\Simulator_for_Faulty_Combinational_Logic_Circuits\Simulator_for_Faulty_Combinational_Logic_Circuits\main.c(331,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\tnego\Desktop\Simulator_for_Faulty_Combinational_Logic_Circuits\Simulator_for_Faulty_Combinational_Logic_Circuits\main.c(383,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\tnego\Desktop\Simulator_for_Faulty_Combinational_Logic_Circuits\Simulator_for_Faulty_Combinational_Logic_Circuits\main.c(476,11): warning C4013: 'time' undefined; assuming extern returning int
+  Simulator_for_Faulty_Combinational_Logic_Circuits.vcxproj -> C:\Users\tnego\Desktop\Simulator_for_Faulty_Combinational_Logic_Circuits\x64\Debug\Simulator_for_Faulty_Combinational_Logic_Circuits.exe
